@@ -24,5 +24,4 @@ lerna-debug.log*
 *.sublime-workspace
 
 .env
-README.md
 nest-cli.json
