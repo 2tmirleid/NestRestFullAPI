@@ -1,14 +1,10 @@
 <h1 align="center">Nestjs REST Full API</h1>
-<h2>Build app:</h2>
 
+<h2>Launch app:</h2>
 <p>Find .env-example file and rename it with ".env"</p>
 <p>Then:</p>
 
-```bash
-$docker-compose build
-```
 
-<h2>Launch app:</h2>
 
 ```bash
 $docker-compose up
