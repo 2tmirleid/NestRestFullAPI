@@ -7,7 +7,7 @@
 
 
 ```bash
-$docker-compose up
+$docker-compose up --build
 ```
 
 <h2>About app:</h2>
